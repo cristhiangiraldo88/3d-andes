@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Universidad de los Andes</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Edificio Mario Laserna</name>
+			<Placemark>
+				<name>Edificio Mario Laserna</name>
+				<styleUrl>#poly-795046-1-255-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0652873,4.602657,0.0 -74.0648326,4.602354899999999,0.0 -74.0648112,4.6023843,0.0 -74.0646677,4.6022934,0.0 -74.0645738,4.6024726,0.0 -74.0644062,4.602808099999999,0.0 -74.0644236,4.6028215,0.0 -74.0644115,4.6028402,0.0 -74.0649734,4.6031931,0.0 -74.0650418,4.6030928,0.0 -74.0650861,4.6031208999999995,0.0 -74.0653235,4.6027586,0.0 -74.0652752,4.602735900000001,0.0 -74.0652953,4.6027038,0.0 -74.0652873,4.602657,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Mario Laserna</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-74.0648863,4.6027814,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bloque B</name>
+				<description><![CDATA[B]]></description>
+				<styleUrl>#poly-795046-1-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0658867,4.6015916,0.0 -74.0659645,4.601460599999999,0.0 -74.0655032,4.601375100000001,0.0 -74.0654844,4.6015007,0.0 -74.065479,4.6015248,0.0 -74.0658867,4.6015916,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Edificio Santo Domingo</name>
+			<Placemark>
+				<name>Edificio Santo Domingo </name>
+				<description><![CDATA[SD, santo domingo]]></description>
+				<styleUrl>#poly-795046-1-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0658438,4.6041128,0.0 -74.0658425,4.6041222,0.0 -74.0656225,4.6045686,0.0 -74.0659766,4.604739699999999,0.0 -74.0661496,4.6043815,0.0 -74.0661107,4.6043654,0.0 -74.0661375,4.6043173,0.0 -74.0661255,4.6043106,0.0 -74.0661469,4.6042625,0.0 -74.0658438,4.6041128,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Santo Domingo</name>
+				<description><![CDATA[SD, ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0659001,4.6044323,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Universidad de los Andes</name>
+			<Placemark>
+				<name>Edificio W</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-74.0649909,4.6021277,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Aulas </name>
+			<Placemark>
+				<name>Edificio Aulas</name>
+				<description><![CDATA[Au]]></description>
+				<styleUrl>#poly-795046-1-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0668188,4.602646399999999,0.0 -74.0667651,4.6026203,0.0 -74.066678,4.602586900000001,0.0 -74.0661717,4.6024238,0.0 -74.0661402,4.602520700000001,0.0 -74.0660912,4.6026844,0.0 -74.0661147,4.6026871,0.0 -74.0661073,4.6027179,0.0 -74.0661261,4.602725199999999,0.0 -74.0661066,4.6027787,0.0 -74.066169,4.602800700000001,0.0 -74.0662723,4.6028235,0.0 -74.0663682,4.6028328,0.0 -74.0665264,4.6028302,0.0 -74.0666726,4.6028068,0.0 -74.0667618,4.602780700000001,0.0 -74.0668188,4.602646399999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Aulas</name>
+				<description><![CDATA[edificio Aulas, Au]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0664634,4.6026891,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Edificio W</name>
+			<Placemark>
+				<name>Edificio Carlos Pacheco Devia</name>
+				<description><![CDATA[w]]></description>
+				<styleUrl>#poly-795046-1-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0651686,4.601977300000001,0.0 -74.065013,4.601897100000001,0.0 -74.064842,4.6022273,0.0 -74.0649178,4.602265400000001,0.0 -74.0649131,4.6022794,0.0 -74.0650318,4.6023382,0.0 -74.0651773,4.6020568,0.0 -74.0651639,4.6020495,0.0 -74.0651739,4.6020241,0.0 -74.0651518,4.602011399999999,0.0 -74.0651686,4.601977300000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Edificio Lleras Camargo</name>
+			<Placemark>
+				<name>Edificio Lleras Camargo</name>
+				<description><![CDATA[LL]]></description>
+				<styleUrl>#poly-795046-2-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0654173,4.6016692,0.0 -74.0653583,4.6016464,0.0 -74.065078,4.602376300000001,0.0 -74.0650821,4.6024071,0.0 -74.0651847,4.602445200000001,0.0 -74.0654013,4.6018162,0.0 -74.0653838,4.601810899999999,0.0 -74.0653999,4.6017641,0.0 -74.0653825,4.601754700000001,0.0 -74.0654173,4.6016692,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Lleras Camargo</name>
+				<description><![CDATA[LL]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0652296,4.6021397,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Bloque Y</name>
+			<Placemark>
+				<name>Laboratorio de Medicina</name>
+				<description><![CDATA[bloque Y]]></description>
+				<styleUrl>#poly-795046-1-176</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0654723,4.6021785,0.0 -74.0652953,4.602121,0.0 -74.0651773,4.6024659,0.0 -74.0653449,4.6025608,0.0 -74.0654723,4.6021785,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bloque Y</name>
+				<description><![CDATA[Laboratorio de Medicina]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0653275,4.6023456,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Bloque Z</name>
+			<Placemark>
+				<name>Bloque Z</name>
+				<description><![CDATA[El Galpón]]></description>
+				<styleUrl>#poly-795046-1-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0658505,4.6022734,0.0 -74.06549250000002,4.6021504,0.0 -74.0654723,4.6021785,0.0 -74.0653449,4.6025608,0.0 -74.065707,4.6027065,0.0 -74.0658505,4.6022734,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bloque z</name>
+				<description><![CDATA[El galpón]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0656011,4.6024271,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Bloque cj</name>
+			<Placemark>
+				<name>Bloque Cj</name>
+				<description><![CDATA[Oficina de Administración documental, Coordinación de Investigación]]></description>
+				<styleUrl>#poly-795046-1-201</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.06572920000002,4.602639699999999,0.0 -74.065707,4.6027065,0.0 -74.06571310000001,4.6027232,0.0 -74.0657533,4.6027346,0.0 -74.0657808,4.6026564,0.0 -74.06572920000002,4.602639699999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bloque Cj</name>
+				<description><![CDATA[Oficina de Administración documental, Coordinación de Investigación]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0657439,4.6026851,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rgb</name>
+				<description><![CDATA[DSIT]]></description>
+				<styleUrl>#poly-795046-1-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0658331,4.6019392,0.0 -74.0658438,4.6018617,0.0 -74.0657178,4.6018242,0.0 -74.0656909,4.6019392,0.0 -74.0658143,4.6019579,0.0 -74.0658331,4.6019392,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Rga</name>
+				<description><![CDATA[Edificio Pedro Navas]]></description>
+				<styleUrl>#poly-795046-1-255</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.066214,4.6021183,0.0 -74.0662542,4.6019953,0.0 -74.0659216,4.601872400000001,0.0 -74.0658733,4.6019927,0.0 -74.066214,4.6021183,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Rga</name>
+				<description><![CDATA[Edificio Pedro Navas]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0660423,4.6020034,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Edificio La Liga</name>
+			<Placemark>
+				<name>Edificio La Liga</name>
+				<description><![CDATA[CEC, LA, ]]></description>
+				<styleUrl>#poly-795046-1-184</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.0668188,4.602646399999999,0.0 -74.0667618,4.602780700000001,0.0 -74.0668349,4.602754,0.0 -74.06685840000002,4.6027386,0.0 -74.0668671,4.602717199999999,0.0 -74.0668631,4.6026865,0.0 -74.066845,4.6026617,0.0 -74.0668188,4.602646399999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Edificio La Liga</name>
+				<description><![CDATA[CEC, LA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-74.0668134,4.6027172,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-1-176-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B0465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-795046-1-176-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B0465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-795046-1-176'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-1-176-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-1-176-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-1-184-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B8465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-795046-1-184-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B8465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-795046-1-184'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-1-184-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-1-184-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-1-201-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>C9465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-795046-1-201-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>C9465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-795046-1-201'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-1-201-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-1-201-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-1-255-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-795046-1-255-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-795046-1-255'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-1-255-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-1-255-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-1-255-nodesc-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-795046-1-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-795046-1-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-1-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-1-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-2-255-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-795046-2-255-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-795046-2-255'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-2-255-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-2-255-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
